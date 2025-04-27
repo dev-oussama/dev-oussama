@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-oussama
+- 👋 Hi, I’m oussama
 - 👀 I’m interested in science and learning in general
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on any beginner data analyses project 
